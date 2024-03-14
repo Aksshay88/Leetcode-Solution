@@ -1,4 +1,7 @@
+import java.util.*;
+
 class Solution {
+
     public boolean isValidSudoku(char[][] board) {
         for (int i = 0; i < 9; i++) {
             Set<Character> rowSet = new HashSet<>();
@@ -11,7 +14,7 @@ class Solution {
                     return false;
                 int rowIndex = 3 * (i / 3);
                 int colIndex = 3 * (i % 3);
-                if (board[rowIndex + j / 3][colIndex + j % 3] != '.' &&
+                if (board[rowIndex + j / 3][colIndex + j % 3] != '.' && 
                     !blockSet.add(board[rowIndex + j / 3][colIndex + j % 3]))
                     return false;
             }
