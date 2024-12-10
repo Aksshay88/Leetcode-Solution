@@ -270,4 +270,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0461-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
