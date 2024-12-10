@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0212-word-search-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0394-decode-string) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0097-interleaving-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
