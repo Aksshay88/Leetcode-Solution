@@ -135,4 +135,17 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0127-word-ladder) |
+| [0210-course-schedule-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
+## Graph
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
