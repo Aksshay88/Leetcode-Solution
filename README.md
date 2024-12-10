@@ -54,4 +54,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0224-basic-calculator) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
