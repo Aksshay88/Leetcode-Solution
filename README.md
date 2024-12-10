@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0289-game-of-life](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0289-game-of-life) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +42,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0289-game-of-life) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Sorting
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
