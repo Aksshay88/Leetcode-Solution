@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0224-basic-calculator) |
+| [0830-largest-triangle-area](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0912-random-pick-with-weight) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0777-toeplitz-matrix) |
 | [0817-design-hashmap](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0817-design-hashmap) |
+| [0830-largest-triangle-area](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0912-random-pick-with-weight) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
