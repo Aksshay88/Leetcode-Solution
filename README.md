@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1250-longest-common-subsequence) |
@@ -80,12 +81,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0937-online-stock-span](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0937-online-stock-span) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0394-decode-string) |
 ## Linked List
 |  |
 | ------- |
