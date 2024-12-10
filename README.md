@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0149-max-points-on-a-line](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0149-max-points-on-a-line](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
