@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0086-partition-list) |
+| [0941-sort-array-by-parity](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0898-transpose-matrix](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0912-random-pick-with-weight) |
+| [0941-sort-array-by-parity](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1249-snapshot-array](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1319-unique-number-of-occurrences) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0354-russian-doll-envelopes) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0941-sort-array-by-parity](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0941-sort-array-by-parity) |
 | [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Ordered Set
