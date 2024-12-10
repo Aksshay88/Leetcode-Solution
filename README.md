@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0777-toeplitz-matrix) |
+| [0817-design-hashmap](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0912-random-pick-with-weight) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
@@ -121,12 +122,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0086-partition-list](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0817-design-hashmap](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0817-design-hashmap) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0155-min-stack) |
+| [0817-design-hashmap](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0937-online-stock-span) |
 | [1249-snapshot-array](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1249-snapshot-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2413-smallest-number-in-infinite-set) |
@@ -138,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0149-max-points-on-a-line](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
+| [0817-design-hashmap](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0817-design-hashmap) |
 | [1249-snapshot-array](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1319-unique-number-of-occurrences) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2413-smallest-number-in-infinite-set) |
@@ -275,4 +279,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0461-hamming-distance](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0693-binary-number-with-alternating-bits) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
