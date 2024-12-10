@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1250-longest-common-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
 | [1894-merge-strings-alternately](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
+| [1250-longest-common-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1250-longest-common-subsequence) |
 ## Geometry
 |  |
 | ------- |
