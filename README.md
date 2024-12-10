@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0289-game-of-life](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0907-koko-eating-bananas](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
 ## Binary Search
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
+| [0907-koko-eating-bananas](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0907-koko-eating-bananas) |
 | [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
 ## Sliding Window
 |  |
