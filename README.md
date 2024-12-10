@@ -96,10 +96,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0133-clone-graph](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Graph
 |  |
 | ------- |
@@ -152,4 +155,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
