@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1250-longest-common-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
 | [1894-merge-strings-alternately](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0289-game-of-life) |
+| [2470-removing-stars-from-a-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0394-decode-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0937-online-stock-span](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0937-online-stock-span) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
