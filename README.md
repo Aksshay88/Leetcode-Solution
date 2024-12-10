@@ -23,7 +23,6 @@ Collection of LeetCode questions to ace the coding interview!
 | [1146-greatest-common-divisor-of-strings](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
-| [1777-determine-if-two-strings-are-close](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 ## Math
@@ -48,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0907-koko-eating-bananas](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
+| [1319-unique-number-of-occurrences](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1319-unique-number-of-occurrences) |
 | [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2428-equal-row-and-column-pairs) |
@@ -117,7 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0149-max-points-on-a-line](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
-| [1777-determine-if-two-strings-are-close](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1777-determine-if-two-strings-are-close) |
+| [1319-unique-number-of-occurrences](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1319-unique-number-of-occurrences) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2428-equal-row-and-column-pairs) |
 ## Divide and Conquer
@@ -225,7 +225,6 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
-| [1777-determine-if-two-strings-are-close](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Ordered Set
 |  |
@@ -235,8 +234,4 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0649-dota2-senate) |
-## Counting
-|  |
-| ------- |
-| [1777-determine-if-two-strings-are-close](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
