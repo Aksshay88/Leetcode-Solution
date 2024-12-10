@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
 | [1894-merge-strings-alternately](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
@@ -38,11 +39,13 @@ Collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
+| [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
+| [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
 ## Queue
 |  |
 | ------- |
@@ -142,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0212-word-search-ii) |
+| [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -177,4 +182,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0937-online-stock-span) |
+## Sorting
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
