@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
+| [0871-keys-and-rooms](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Depth-First Search
 |  |
@@ -172,12 +173,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0871-keys-and-rooms](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
+| [0871-keys-and-rooms](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Topological Sort
 |  |
