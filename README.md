@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0086-partition-list) |
 | [1894-merge-strings-alternately](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -57,5 +58,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
