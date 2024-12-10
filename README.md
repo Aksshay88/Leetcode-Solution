@@ -266,4 +266,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0912-random-pick-with-weight) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
