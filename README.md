@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0097-interleaving-string) |
+| [0212-word-search-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0289-game-of-life) |
 ## Simulation
@@ -118,4 +121,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
