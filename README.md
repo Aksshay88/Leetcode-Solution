@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0224-basic-calculator) |
+| [0937-online-stock-span](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0937-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0155-min-stack) |
+| [0937-online-stock-span](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0937-online-stock-span) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,4 +169,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
