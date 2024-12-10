@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0097-interleaving-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0224-basic-calculator) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0149-max-points-on-a-line](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0126-word-ladder-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
