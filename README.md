@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2428-equal-row-and-column-pairs) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Binary Search
 |  |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2428-equal-row-and-column-pairs](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Stack
 |  |
 | ------- |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1319-unique-number-of-occurrences](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1319-unique-number-of-occurrences) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2428-equal-row-and-column-pairs) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -208,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2413-smallest-number-in-infinite-set) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Queue
 |  |
 | ------- |
@@ -280,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0941-sort-array-by-parity](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0941-sort-array-by-parity) |
 | [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Ordered Set
 |  |
