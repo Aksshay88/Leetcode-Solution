@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2428-equal-row-and-column-pairs](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2428-equal-row-and-column-pairs) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Binary Search
 |  |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2868-continuous-subarrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Prefix Sum
 |  |
@@ -212,15 +214,18 @@ Collection of LeetCode questions to ace the coding interview!
 | [2413-smallest-number-in-infinite-set](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2413-smallest-number-in-infinite-set) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2868-continuous-subarrays) |
 ## Queue
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
+| [2868-continuous-subarrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
+| [2868-continuous-subarrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2868-continuous-subarrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -290,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2413-smallest-number-in-infinite-set) |
+| [2868-continuous-subarrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2868-continuous-subarrays) |
 ## Greedy
 |  |
 | ------- |
