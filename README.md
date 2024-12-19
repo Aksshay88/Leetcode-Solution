@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0777-toeplitz-matrix) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0817-design-hashmap](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0830-largest-triangle-area) |
 | [0898-transpose-matrix](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0898-transpose-matrix) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0394-decode-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0354-russian-doll-envelopes) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0941-sort-array-by-parity) |
 | [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -312,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0649-dota2-senate) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2300-construct-string-with-repeat-limit) |
 ## Randomized
