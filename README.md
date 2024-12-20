@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
 | [0871-keys-and-rooms](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -271,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0904-leaf-similar-trees](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
