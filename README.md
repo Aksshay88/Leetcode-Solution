@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0904-leaf-similar-trees](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Aksshay88/Leetcode-Solution/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Aksshay88/Leetcode-Solution/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Graph
 |  |
 | ------- |
