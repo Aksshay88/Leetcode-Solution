@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0904-leaf-similar-trees](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0904-leaf-similar-trees](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0871-keys-and-rooms](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -278,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0871-keys-and-rooms](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
