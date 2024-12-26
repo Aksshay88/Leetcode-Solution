@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0494-target-sum](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0777-toeplitz-matrix) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0780-max-chunks-to-make-sorted) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0354-russian-doll-envelopes) |
+| [0494-target-sum](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0494-target-sum) |
 ## Trie
 |  |
 | ------- |
