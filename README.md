@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1250-longest-common-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2562-count-ways-to-build-good-strings) |
 ## Geometry
 |  |
 | ------- |
