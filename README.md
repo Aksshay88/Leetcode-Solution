@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0912-random-pick-with-weight](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0912-random-pick-with-weight) |
 | [0941-sort-array-by-parity](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
+| [1025-minimum-cost-for-tickets](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1063-best-sightseeing-pair) |
 | [1249-snapshot-array](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1319-unique-number-of-occurrences) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
+| [1025-minimum-cost-for-tickets](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
