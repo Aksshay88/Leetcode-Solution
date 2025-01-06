@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2300-construct-string-with-repeat-limit) |
 | [2465-shifting-letters-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1917-maximum-average-pass-ratio) |
 | [2358-number-of-ways-to-split-array](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0912-random-pick-with-weight](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0912-random-pick-with-weight) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
