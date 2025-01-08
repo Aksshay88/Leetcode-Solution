@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Aksshay88/Leetcode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2868-continuous-subarrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Aksshay88/Leetcode-Solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Aksshay88/Leetcode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aksshay88/Leetcode-Solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0212-word-search-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0212-word-search-ii) |
 | [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Aksshay88/Leetcode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -382,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0817-design-hashmap) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Aksshay88/Leetcode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -398,4 +402,9 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Aksshay88/Leetcode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Aksshay88/Leetcode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
