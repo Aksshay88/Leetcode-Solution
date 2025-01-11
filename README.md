@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0224-basic-calculator](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0649-dota2-senate) |
+| [0952-word-subsets](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0912-random-pick-with-weight) |
 | [0941-sort-array-by-parity](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0941-sort-array-by-parity) |
+| [0952-word-subsets](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1063-best-sightseeing-pair) |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0149-max-points-on-a-line](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0817-design-hashmap](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0817-design-hashmap) |
+| [0952-word-subsets](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0952-word-subsets) |
 | [1249-snapshot-array](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1319-unique-number-of-occurrences) |
 | [1502-construct-k-palindrome-strings](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1502-construct-k-palindrome-strings) |
