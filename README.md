@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Aksshay88/Leetcode-Solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2413-smallest-number-in-infinite-set](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2428-equal-row-and-column-pairs) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Aksshay88/Leetcode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |
@@ -394,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0461-hamming-distance](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0693-binary-number-with-alternating-bits) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Function
 |  |
 | ------- |
