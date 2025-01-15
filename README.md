@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1917-maximum-average-pass-ratio](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2300-construct-string-with-repeat-limit) |
+| [2509-minimize-xor](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2509-minimize-xor) |
 ## Randomized
 |  |
 | ------- |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0461-hamming-distance](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0693-binary-number-with-alternating-bits) |
+| [2509-minimize-xor](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Function
 |  |
