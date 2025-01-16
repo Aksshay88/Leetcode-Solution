@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0461-hamming-distance](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0693-binary-number-with-alternating-bits) |
 | [2509-minimize-xor](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Function
 |  |
@@ -428,4 +430,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Aksshay88/Leetcode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
