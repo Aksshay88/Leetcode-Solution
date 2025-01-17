@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Aksshay88/Leetcode-Solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2509-minimize-xor](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Aksshay88/Leetcode-Solution/tree/master/2792-neighboring-bitwise-xor) |
 ## Hash Function
 |  |
 | ------- |
