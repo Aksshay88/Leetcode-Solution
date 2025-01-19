@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0777-toeplitz-matrix](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0898-transpose-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [1397-search-suggestions-system](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1917-maximum-average-pass-ratio) |
@@ -319,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0871-keys-and-rooms](https://github.com/Aksshay88/Leetcode-Solution/tree/master/0871-keys-and-rooms) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Aksshay88/Leetcode-Solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
